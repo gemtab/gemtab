@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
+### About me
+Nurse, learner, dad, rank amateur developer. <br>
+Particularly interested in Python, health informatics, and healthcare simulation
+
+
 
 <!--
 **gemtab/gemtab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
